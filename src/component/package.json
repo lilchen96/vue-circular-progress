@@ -1,6 +1,6 @@
 {
   "name": "illmatic-circular-progress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "circular progress bar based on Vue",
   "main": "dist/bundle.js",
   "scripts": {
