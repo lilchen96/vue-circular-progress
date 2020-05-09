@@ -1,11 +1,25 @@
 {
-  "name": "npm-package-name",
-  "version": "1.0.0",
-  "description": "",
+  "name": "illmatic-circular-progress",
+  "version": "1.0.1",
+  "description": "circular progress bar based on Vue",
   "main": "dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lilchen96/vue-circular-progress.git"
+  },
+  "keywords": [
+    "Vue",
+    "css3-animations",
+    "progress-bar",
+    "illmatic"
+  ],
+  "author": "lilchen96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilchen96/vue-circular-progress/issues"
+  },
+  "homepage": "https://github.com/lilchen96/vue-circular-progress#readme"
 }

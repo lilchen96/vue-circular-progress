@@ -123,7 +123,6 @@ export default {
       };
     },
   },
-  methods: {},
 
   watch: {
     current: {
