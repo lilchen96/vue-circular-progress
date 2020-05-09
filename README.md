@@ -7,9 +7,7 @@
 1.安装
 `npm install illmatic-circular-progress --save`
 
-or
-
-`yarn add illmatic-circular-progress`
+or`yarn add illmatic-circular-progress`
 
 2.注册：
 `import illmaticCircularProgress from 'illmatic-circular-progress';`
