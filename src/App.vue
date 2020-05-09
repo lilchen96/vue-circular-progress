@@ -1,6 +1,6 @@
 <template>
   <div>
-    <test></test>
+    <IllmaticCircularProgress></IllmaticCircularProgress>
   </div>
 </template>
 
